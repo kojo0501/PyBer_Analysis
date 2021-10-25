@@ -29,3 +29,8 @@ This graph displays data for total fares by city type from January through April
 
 ## Summary
 
+### Scale-Up Urban Operations
+
+### Re-Evaluate Rural Operations
+
+### Engage Drivers to Maximize Retention
