@@ -24,7 +24,8 @@ This dataframe displays data organized by city type for total rides, total drive
 
 ### Total Fare by City Type Over Time
 This graph displays data for total fares by city type from January through April:
-![Pyber_fare_summary](https://user-images.githubusercontent.com/24308495/138629810-b198c9d5-3383-44ad-bce0-5a3e5caeba1f.png)
+![Pyber_fare_summary](https://user-images.githubusercontent.com/24308495/138630005-b6c91af1-ca54-4eff-b7b8-c921efd84a0c.png)
+
 
 ## Summary
 
