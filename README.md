@@ -6,7 +6,7 @@
 Pyber is a ride sharing company. Using data from a CSV, I created several analyses using Jupyter Notebook along with matplotlib and pandas libraries to analyze the data.
 
 ### Purpose of Analysis
-The analysis below showcases the relationships between the types of cities, total rides, total drivers, total fares, average fare per ride, and average fare per driver. The data is aggregated by the type of city. The city types are rural, suburban, urban. The final intent of the analysis is to identify disparities between city types, and to make recommendations for addressing these disparities.
+The analysis below showcases the relationships between the types of cities, total rides, total drivers, total fares, average fare per ride, and average fare per driver. The data is aggregated and averaged by the type of city. The city types are rural, suburban, urban. The final intent of the analysis is to identify disparities between city types, and to make recommendations for addressing these disparities.
 
 ## Results
 This dataframe displays data organized by city type for total rides, total drivers, total fares, average fare per ride, and average fare per driver:
